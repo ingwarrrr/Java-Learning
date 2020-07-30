@@ -6,8 +6,4 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-
-    <style name="AppTheme.Floating">
-        <item name="android:windowIsFloating">true</item>
-    </style>
 </resources>
